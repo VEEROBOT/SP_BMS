@@ -34,7 +34,11 @@ Raspberry Pi GPIO:
 - Pin 5 (GPIO3) → SCL (all I2C devices)  
 - Pin 6 (GND) → GND (all devices)
 - Pin 1 (3.3V) → VCC (sensors)
-- Pin 2 (5V) → VCC (LCD - if required)
+```
+
+```
+System Setup:
+- All Sensors connected to 5v via Logic Level converter
 ```
 
 ## Battery Health Classification
